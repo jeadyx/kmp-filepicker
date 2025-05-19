@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<paths>
+    <files-path name="files" path="." /> <!-- 映射 context.getFilesDir() -->
+    <external-files-path name="external_files" path="." /> <!-- 映射 getExternalFilesDir() -->
+    <external-files-path name="external_files" path="." /> <!-- 映射 getExternalFilesDir() -->
+    <external-files-path name="external_docs" path="Documents/" />
+    <external-path name="public_docs" path="Documents/filepicker/test" />
+    <!-- 其他路径（如 cache、external-cache 等） -->
+</paths>

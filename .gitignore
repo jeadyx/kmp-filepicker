@@ -1,0 +1,12 @@
+.gradle
+.idea
+.DS_Store
+.gradle
+.idea
+.gradle
+.gradle
+.gradle
+.gradle
+*.hprof
+build
+.kotlin
